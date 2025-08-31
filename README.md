@@ -51,7 +51,7 @@
 
 ## 🤝 Let's Connect
 <p align="left">
-<a href="[https://www.linkedin.com/in/simran-maran](https://www.linkedin.com/in/ayush-vishwakarma-196122365/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ayush-vishwakarma-196122365/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/official_ayushvishwakarma/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" /></a>
 </p>
 
